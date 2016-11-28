@@ -2,6 +2,7 @@ Seed project for client side Typescript
 
 build:
   npm install
+  
 watch files in referenced in src/main.ts and write to public/js/bundle.js:
   node build.js
 
