@@ -1,0 +1,21 @@
+{
+  "name": "ts-seed",
+  "version": "1.0.0",
+  "description": "starter project for client side typescript pt ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "browserify"
+  ],
+  "author": "Mark Harrop",
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "13.1.1",
+    "tsify": "2.0.3",
+    "typescript": "2.0.10",
+    "watchify": "3.7.0"
+  }
+}
