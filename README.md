@@ -10,4 +10,4 @@ install browser-sync:
   npm install -g browser-sync
 
 reload index.html on bundle changes:
-  browser-sync start --server 'public' --files 'public/js/bundle.js' --startPath 'index.html'
+  browser-sync start --server "public" --files "public/js/bundle.js" --startPath "index.html"
