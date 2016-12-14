@@ -4,7 +4,9 @@
   "description": "starter project for client side typescript pt ",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "node ./build.js",
+    "serve": "browser-sync start --server \"public\" --files \"public/js/bundle.js\" --startPath \"index.html\""
   },
   "keywords": [
     "typescript",
