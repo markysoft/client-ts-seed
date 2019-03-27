@@ -1,4 +1,4 @@
-Seed project for client side Typescript
+# Seed project for client side Typescript
 
 build:
   npm install
